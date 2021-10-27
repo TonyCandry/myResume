@@ -1,0 +1,95 @@
+[33mcommit 5dd27a38fc8df36ce929fd19ae29cb26efba9f41[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31mheroku/main[m[33m)[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Wed Oct 20 10:26:47 2021 +0200
+
+    add github icon + link to screen contact + info
+
+[33mcommit 289fd6a33d5051125f73d6ab53a1624525977919[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Sat Oct 16 12:33:18 2021 +0200
+
+    update layout button telecharger + contacter
+
+[33mcommit 9c685847923eaf97c9840e3ed44eeccb1e6a6d5c[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Sat Oct 16 00:34:01 2021 +0200
+
+    Add message section + update layout
+
+[33mcommit f7649ce86f6cfe608eeb81b17ef5cc86886dffe1[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 21:52:40 2021 +0200
+
+    update layout about+ skills
+
+[33mcommit 93b1ec4dd9d281776149ac43b6531f680a0d1afc[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 21:41:59 2021 +0200
+
+    update layout + add download resume
+
+[33mcommit 5c8e539f9e3f09d51c01788670c15292bf356996[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 18:15:26 2021 +0200
+
+    update manifest
+
+[33mcommit 4d214faf15fb9eb59ea181c6053052891abb0f79[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 18:10:21 2021 +0200
+
+    update skills
+
+[33mcommit 9234b2363c70228d86ee15989e8ece49f4fe6170[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 18:08:41 2021 +0200
+
+    update skills
+
+[33mcommit 364198634a0646259f4f0a5949384e3b9eb9d205[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 18:03:56 2021 +0200
+
+    change favicon + modif about
+
+[33mcommit d55632916c764197494309e17023249af1691775[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 17:46:43 2021 +0200
+
+    change height skills
+
+[33mcommit 986f78736884f63e4503431af55e844993cd9686[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 17:13:42 2021 +0200
+
+    change doc title
+
+[33mcommit 96a291bd726b3521ad63810977d28402a27b19d9[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 16:42:34 2021 +0200
+
+    update city
+
+[33mcommit b27e752ed9c1d957693af6c44dd1cbd3f2b2e7e1[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 13:57:21 2021 +0200
+
+    update
+
+[33mcommit 755f6288aa1539c8065ec3b910e30093e64a2d69[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 11:22:04 2021 +0200
+
+    update link
+
+[33mcommit c766611610658b092e9fb42c15f54491e76ec808[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Fri Oct 15 11:07:35 2021 +0200
+
+    first commit
+
+[33mcommit b4671101fcc734575f283e69f560142e2d3f233e[m
+Author: Tony <tony_candry@hotmail.com>
+Date:   Mon Oct 11 14:23:45 2021 +0200
+
+    Initialize project using Create React App

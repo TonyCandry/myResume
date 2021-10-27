@@ -1,0 +1,139 @@
+/* ------------ Ajout de nouvelles polices d'écriture ------------- */
+@font-face {
+  font-family: 'Work';
+  src: url('./fonts/WorkSans-Thin.ttf');
+}
+
+@font-face {
+  font-family: 'WorkLight';
+  src: url('./fonts/WorkSans-Light.ttf');
+}
+
+@font-face {
+  font-family: 'WorkRegular';
+  src: url('./fonts/WorkSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Fredericka';
+  src: url('./fonts/FrederickatheGreat-Regular.ttf');
+}
+
+/* ----------------- Applicable sur toute la page ------------------ */
+.wholePage{
+font-family: 'WorkLight';
+}
+
+/* --------------------- Présentation - Bounce  -------------------- */
+.box {
+  align-self: flex-end;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  background-color: transparent;
+}
+
+.bounce-1 {
+  animation-name: bounce-1;
+  animation-timing-function: linear;
+}
+@keyframes bounce-1 {
+  0%   { transform: translateY(10px); }
+  50%  { transform: translateY(0); }
+  100% { transform: translateY(10px); }
+}
+
+/* ----------------------- Contact info bar ------------------------ */
+.info{
+  position:fixed;
+  background-color: #263238;
+  opacity: 0.8;
+  padding-top: 15px;
+  text-align: center;
+  z-index:999;
+  top: 15%;
+  right: 0px;
+  width: 50px;
+  height: 163px;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 100%);
+  border-top-left-radius: 10px 10px;
+  border-bottom-left-radius: 10px 10px;
+}
+
+/* ------------------------------ About ---------------------------- */
+.background::after{
+  content: "";
+  width: 100%;
+  height: 100vh;
+  background-color: grey;
+  position: absolute;
+  opacity: 0.6;
+  z-index: 0;
+}
+
+.background > * {
+  z-index: 10;
+  position: relative;
+}
+
+.background {
+  background: url('./images/background.png');
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+/* ----------------------------- Nav ------------------------------- */
+.LinkColor{
+  color: #90A4AE;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* ---------------------------- Skills ------------------------------ */
+.marginSkills {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.toastStyle{
+  margin:auto;
+  margin-top: 20px;
+  width: 80%;
+  height: 260px;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 50%);
+}
+
+/* -------------------------- Expériences ---------------------------- */
+.parcours{
+  padding-left: 35px;
+}
+
+.parcoursDate {
+  width: 100%;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ---------------------- Contact - Icon bounce ----------------------- */
+.boxContact {
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+.bounce-2 {
+  animation-name: bounce-2;
+  animation-timing-function: ease;
+}
+@keyframes bounce-2 {
+  0%   { transform: translateY(0); }
+  30%  { transform: translateY(-10px); }
+  50%  { transform: translateY(0); }
+  100% { transform: translateY(0); }
+}
+
+.g-recaptcha {
+  overflow:hidden;
+  width:298px;
+  height:74px;
+  z-index: 1;
+}
